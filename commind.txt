@@ -4,4 +4,5 @@ git add
 git rm
 git commit
 git reset
+git reset --hard name
 git push
