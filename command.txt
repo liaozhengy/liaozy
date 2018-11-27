@@ -8,3 +8,5 @@ git reset
 git reset --hard name
 git push
 git status
+git fetch
+git pull
