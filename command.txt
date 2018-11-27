@@ -3,6 +3,8 @@ git clone
 git add
 git rm
 git commit
+git commit -a
 git reset
 git reset --hard name
 git push
+git status
