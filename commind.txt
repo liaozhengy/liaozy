@@ -1,0 +1,7 @@
+This is some commind
+git clone 
+git add
+git rm
+git commit
+git reset
+git push
