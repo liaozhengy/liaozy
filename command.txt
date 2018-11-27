@@ -1,0 +1,8 @@
+This is some command
+git clone 
+git add
+git rm
+git commit
+git reset
+git reset --hard name
+git push
